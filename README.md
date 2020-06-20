@@ -1,1 +1,1 @@
-<span style="color:#0000FF;">A Arduino Movement Patterns Learning based on  Reinforcement Learning</span>
+<span style="color: red; ">A Arduino Movement Patterns Learning based on  Reinforcement Learning</span>
