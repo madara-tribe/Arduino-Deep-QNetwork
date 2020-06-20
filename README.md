@@ -1,7 +1,7 @@
 # A Arduino  Movement Patterns Learning based on Reinforcement Learning
 
 
-## Overvie
+## Overview
 
 Hardware(Arduino Uno) of Movement Patterns Learning based on Reinforcement Learning related to Robotics Reinforcement Learning Development
 
