@@ -13,7 +13,7 @@ The robotics project is to develop robots leaning Movement Patterns based on Rei
 2. The main algorithm I used is Deep Q-Network(DQN). 
 Arduino learned <b>Movement Patterns (Down => Push pump => Up</b>). Afetr Arduino can Push pump action, it get reward just like below
 
-<img src="https://user-images.githubusercontent.com/48679574/85190320-3fc61f80-b2f2-11ea-86a3-c4db8dbe44a9.jpg" width="435px"><img src="https://user-images.githubusercontent.com/48679574/85190307-1c9b7000-b2f2-11ea-9459-0f632e795d81.jpg" width="435px">
+<img src="https://user-images.githubusercontent.com/48679574/85190320-3fc61f80-b2f2-11ea-86a3-c4db8dbe44a9.jpg" width="450px"><img src="https://user-images.githubusercontent.com/48679574/85190307-1c9b7000-b2f2-11ea-9459-0f632e795d81.jpg" width="450px">
 
 
 
