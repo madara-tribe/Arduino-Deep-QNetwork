@@ -26,7 +26,7 @@ While leaning Movement Patterns, DQN episode training cycle and value action cur
 
 4. Through 50 episode, num of success become more than 16 in each step.
 
-<img src="https://user-images.githubusercontent.com/48679574/85190567-87e64180-b2f4-11ea-86b1-09ac1aeb81c9.png" width="450px">
+<img src="https://user-images.githubusercontent.com/48679574/85190567-87e64180-b2f4-11ea-86b1-09ac1aeb81c9.png" width="550px">
 
 
 
