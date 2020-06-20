@@ -21,7 +21,7 @@ Arduino learned <b>Movement Patterns (Down => Push pump => Up</b>). Afetr Arduin
 3. Eplisode training cycle almost followed DQN mechanism. I improved mainly 「value action frunction」. 
 While leaning Movement Patterns, DQN episode training cycle and value action curve is just like below:
 
-<img src="https://user-images.githubusercontent.com/48679574/85190464-b0ba0700-b2f3-11ea-9a03-141dc373add2.jpg" width="350px"><img src="https://user-images.githubusercontent.com/48679574/85190474-c62f3100-b2f3-11ea-85ba-c5439e0a11ff.png" width="350px">
+<img src="https://user-images.githubusercontent.com/48679574/85190464-b0ba0700-b2f3-11ea-9a03-141dc373add2.jpg" width="400px"><img src="https://user-images.githubusercontent.com/48679574/85190474-c62f3100-b2f3-11ea-85ba-c5439e0a11ff.png" width="400px">
 
 
 4. Through 50 episode, num of success become more than 16 in each step.
