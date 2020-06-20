@@ -32,11 +32,14 @@ While leaning Movement Patterns, DQN episode training cycle and value action cur
 
 ## Environment
 
-・Mac OS
-・Linux
-・Python == 3.7
+- Mac OS
+- Linux
+- Python == 3.7
+
 ・tensorflow == 2.2.0
+
 ・Keras == 2.2.1 
+
 ・CPU
 
 ## Summary
